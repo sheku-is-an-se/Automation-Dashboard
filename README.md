@@ -1,3 +1,9 @@
+# Automation Dashboard
+
+This repository is based on the SB Admin 2 Bootstrap template, customized to include a comprehensive showcase of all components in `all-components.html`. Use this dashboard as a starting point for automation and admin features.
+
+---
+
 # [Start Bootstrap - SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/)
 
 [SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/) is an open source admin dashboard theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
@@ -57,8 +63,6 @@ Start Bootstrap was created by and is maintained by **[David Miller](https://dav
 * <https://davidmiller.io>
 * <https://twitter.com/davidmillerhere>
 * <https://github.com/davidtmiller>
-
-Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
 ## Copyright and License
 
